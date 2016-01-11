@@ -6,6 +6,8 @@ It's a simple script for backup site to cloud storage based on
 
 This script is expansion supload script https://github.com/selectel/supload
 
+The script keeps backups for 7 days!
+
 Installation
 ------------
 
