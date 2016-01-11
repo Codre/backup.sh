@@ -16,5 +16,5 @@ read SELpass;
 echo "\nStorage keis name:";
 read SELkeis;
 
-echo "doc_root=\"$doc_root\";site_root=\"$site_root\";\nhost=\"$host\";\nusername=\"$username\";\npassword=\"$password\";\nSELuser=\"$SELuser\";\nSELpass=\"$SELpass\";\nSELkeis=\"$SELkeis\";" > /etc/codre-backuper.cfg;
+echo "doc_root=\"$doc_root\";\nsite_root=\"$site_root\";\nhost=\"$host\";\nusername=\"$username\";\npassword=\"$password\";\nSELuser=\"$SELuser\";\nSELpass=\"$SELpass\";\nSELkeis=\"$SELkeis\";" > /etc/codre-backuper.cfg;
 echo "\nConfig save!";
