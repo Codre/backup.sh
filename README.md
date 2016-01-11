@@ -34,7 +34,7 @@ Usage
 
 Start backup::
 
-    $ sh /usr/share/codre-backuper/backup.sh;
+    $ bash /usr/share/codre-backuper/backup.sh;
     
 Change configuration file::
 
