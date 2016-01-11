@@ -60,4 +60,4 @@ rm -Rf $doc_root/$date
 
 echo "files:Done." >> /var/log/codre.backuper.log;
 
-echo "$(date +%Y-%m-%d:%H:%M:%S) BACKUP END. REBOOT" >> /var/log/codre.backuper.log;
+echo "$(date +%Y-%m-%d:%H:%M:%S) BACKUP END." >> /var/log/codre.backuper.log;

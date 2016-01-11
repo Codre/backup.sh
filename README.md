@@ -41,3 +41,7 @@ Start backup::
 Change configuration file::
 
     $ sh /usr/share/codre-backuper/config.sh;
+    
+Show log file::
+
+    cat /var/log/codre.backuper.log;
